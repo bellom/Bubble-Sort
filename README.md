@@ -3,7 +3,7 @@
 Used:
 * Ruby
 
-# Authors
+# Author
 This have been done by
 * Oluwaseun Bello https://github.com/bellom
 
